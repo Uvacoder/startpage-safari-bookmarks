@@ -16,7 +16,7 @@ if (!localStorage.getItem("bookmarks"))
             [
                 "Category 1",
                 [
-                    { name: "Bookmark 1", link: "//example.com" },
+                    { name: "GitHub", link: "//github.com/uvacoder" },
                     { name: "Bookmark 2", link: "//example.com" },
                     { name: "Bookmark 3", link: "//example.com" },
                 ],
